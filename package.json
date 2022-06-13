@@ -43,13 +43,13 @@
     "supertest": "^6.1.3"
   },
   "author": {
-    "name": "Mattias van den Belt",
-    "email": "mattiebelt@gmail.com",
-    "url": "https://github.com/MattieBelt"
+    "name": "Ali Kazim",
+    "email": "ali@devkind.com.au",
+    "url": "https://github.com/rome2o"
   },
-  "homepage": "https://github.com/MattieBelt/mattie-strapi-bundle",
+  "homepage": "https://github.com/rome2o/mattie-strapi-bundle",
   "repository": "github:MattieBelt/mattie-strapi-bundle",
-  "bugs": "https://github.com/MattieBelt/mattie-strapi-bundle/issues",
+  "bugs": "https://github.com/rome2o/mattie-strapi-bundle/issues",
   "lint-staged": {
     "*.{js,md,css,scss,yaml,yml}": [
       "prettier --write"
