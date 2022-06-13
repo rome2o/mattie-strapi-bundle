@@ -1,5 +1,6 @@
 {
   "name": "mattie-strapi-bundle",
+  "version": "0.1",
   "private": true,
   "description": "Mono repo for the mattie-strapi-bundle",
   "workspaces": [
@@ -61,6 +62,5 @@
     "node": ">=12.9.x <=16.x.x",
     "npm": ">=6.0.0"
   },
-  "license": "SEE LICENSE IN LICENSE",
-  "version": "0.1"
+  "license": "SEE LICENSE IN LICENSE"
 }
